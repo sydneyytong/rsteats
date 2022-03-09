@@ -1,0 +1,43 @@
+
+
+body {
+	font-family: Garamond, serif;
+	background-color: #FAFAFA;
+	margin-top: 50px;
+	margin-bottom: 100px;
+	margin-right: auto;
+	margin-left: 30px;
+}
+
+p {
+	color: #464546;
+}
+
+img {
+  display: block;
+  margin-left: 0;
+  margin-right: 100;
+  width: 300px;
+  height: auto;
+  
+}
+
+h1 {
+	text-align:center;
+    color:#2D4263
+}
+
+h2 {
+    color:#66040A
+}
+
+li {
+	font-weight: bold;
+}
+
+nav {
+	text-align: center
+}
+
+h3 {color:#66040A}
+

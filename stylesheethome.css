@@ -1,0 +1,28 @@
+body {
+	font-family: Garamond, serif;
+	background-color: #FAFAFA;
+	margin-top: 50px;
+	margin-bottom: 100px;
+	margin-right: auto;
+	margin-left: 30px;
+}
+
+h1{
+    text-align:center;
+    color:#2D4263
+}
+
+nav{
+    text-align:center
+}
+
+
+
+img {
+    display: block;
+    margin-left: 500;
+    margin-right: 100;
+    width: 300px;
+    height: auto;
+    
+  }
